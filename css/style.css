@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100vw;
+    height: 80px;
+}
+.Logo{
+    width: 25%;
+    height: 80px;
+    background-color: chocolate;
+    float: left;
+}
+.Menu{
+    width: 60%;
+    height: 80px;
+    background-color: cadetblue;
+    float: left;
+}
+.Sub-menu{
+    width: 15%;
+    height: 80px;
+    background-color: crimson;
+    overflow: hidden;
+}
+.body{
+    width: 100%;
+    height: 500px;
+}
+.left{
+    width: 40%;
+    height: 500px;
+    background-color: aquamarine;
+    float: left;
+}
+.red{
+    width: 30%;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+.green{
+    width: 30%;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+.yellow{
+    width: 60%;
+    height: 150px;
+    background-color: yellow;
+    float: left;
+}
+.chartreuse{
+    width: 60%;
+    height: 150px;
+    background-color: chartreuse;
+    overflow: hidden;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: indigo;
+    color: white;
+    text-align: center;
+}
